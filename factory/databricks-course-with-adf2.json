@@ -1,0 +1,9 @@
+{
+	"name": "databricks-course-with-adf2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c82da8d8-2359-409e-bc28-8dd3380b8e54",
+		"tenantId": "02415c3d-af93-4183-a1ad-86b7649052eb"
+	}
+}
